@@ -1,0 +1,6 @@
+env:
+  node: true
+parserOptions:
+  ecmaVersion: 6
+rules:
+  no-mootools: 2
