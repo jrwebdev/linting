@@ -7,7 +7,7 @@
   "author": "jrwebdev <web@jravenscroft.co.uk>",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint --rulesdir eslint-rules/ index.js"
+    "lint": "eslint index.js"
   },
   "dependencies": {
     "eslint": "^3.13.1",
