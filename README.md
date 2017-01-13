@@ -1,2 +1,2 @@
 # linting
-Experimenting with linting + AST parsing
+Experimenting with linting + ASTs
